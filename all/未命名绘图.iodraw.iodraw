@@ -98,16 +98,16 @@
           <mxGeometry x="30" width="220" height="30" as="geometry" />
         </mxCell>
         <mxCell id="SDsxmMpL8d394vxP3TBl-1" value="&lt;div&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;读者&lt;/span&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="170" y="690" width="80" height="40" as="geometry" />
+          <mxGeometry x="170" y="670" width="80" height="40" as="geometry" />
         </mxCell>
         <mxCell id="SDsxmMpL8d394vxP3TBl-3" value="&lt;div&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;图书管理员&lt;/span&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="310" y="690" width="80" height="40" as="geometry" />
+          <mxGeometry x="310" y="670" width="80" height="40" as="geometry" />
         </mxCell>
         <mxCell id="SDsxmMpL8d394vxP3TBl-4" value="&lt;div&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;出版社&lt;/span&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="310" y="790" width="80" height="40" as="geometry" />
         </mxCell>
         <mxCell id="SDsxmMpL8d394vxP3TBl-5" value="&lt;div&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;图书&lt;/span&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="170" y="790" width="80" height="40" as="geometry" />
+          <mxGeometry x="170" y="810" width="80" height="40" as="geometry" />
         </mxCell>
         <mxCell id="SDsxmMpL8d394vxP3TBl-6" value="借阅" style="shape=rhombus;perimeter=rhombusPerimeter;whiteSpace=wrap;html=1;align=center;" vertex="1" parent="1">
           <mxGeometry x="185" y="750" width="50" height="20" as="geometry" />
