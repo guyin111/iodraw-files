@@ -124,7 +124,7 @@
             <mxPoint x="209.8" y="770" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="SDsxmMpL8d394vxP3TBl-11" value="借阅" style="shape=rhombus;perimeter=rhombusPerimeter;whiteSpace=wrap;html=1;align=center;" vertex="1" parent="1">
+        <mxCell id="SDsxmMpL8d394vxP3TBl-11" value="销售" style="shape=rhombus;perimeter=rhombusPerimeter;whiteSpace=wrap;html=1;align=center;" vertex="1" parent="1">
           <mxGeometry x="280" y="820" width="50" height="20" as="geometry" />
         </mxCell>
         <mxCell id="SDsxmMpL8d394vxP3TBl-12" value="" style="endArrow=none;html=1;rounded=0;" edge="1" parent="1">
@@ -137,6 +137,12 @@
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="330" y="829.8" as="sourcePoint" />
             <mxPoint x="360" y="829.8" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="SDsxmMpL8d394vxP3TBl-14" value="" style="endArrow=none;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="229.8" y="830" as="sourcePoint" />
+            <mxPoint x="229.8" y="790" as="targetPoint" />
           </mxGeometry>
         </mxCell>
       </root>
