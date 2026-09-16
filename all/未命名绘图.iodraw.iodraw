@@ -144,7 +144,7 @@
             <mxPoint x="360" y="829.8" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="SDsxmMpL8d394vxP3TBl-17" value="借阅" style="shape=rhombus;perimeter=rhombusPerimeter;whiteSpace=wrap;html=1;align=center;" vertex="1" parent="1">
+        <mxCell id="SDsxmMpL8d394vxP3TBl-17" value="管理" style="shape=rhombus;perimeter=rhombusPerimeter;whiteSpace=wrap;html=1;align=center;" vertex="1" parent="1">
           <mxGeometry x="280" y="680" width="50" height="20" as="geometry" />
         </mxCell>
         <mxCell id="SDsxmMpL8d394vxP3TBl-21" value="" style="endArrow=none;html=1;rounded=0;" edge="1" parent="1">
@@ -158,6 +158,9 @@
             <mxPoint x="250" y="689.8" as="sourcePoint" />
             <mxPoint x="280" y="689.8" as="targetPoint" />
           </mxGeometry>
+        </mxCell>
+        <mxCell id="SDsxmMpL8d394vxP3TBl-23" value="借阅" style="shape=rhombus;perimeter=rhombusPerimeter;whiteSpace=wrap;html=1;align=center;" vertex="1" parent="1">
+          <mxGeometry x="195" y="760" width="50" height="20" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
