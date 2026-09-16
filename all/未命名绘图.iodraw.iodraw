@@ -144,11 +144,8 @@
             <mxPoint x="360" y="829.8" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="SDsxmMpL8d394vxP3TBl-16" value="" style="endArrow=none;html=1;rounded=0;" edge="1" parent="1">
-          <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="239.8" y="840" as="sourcePoint" />
-            <mxPoint x="239.8" y="800" as="targetPoint" />
-          </mxGeometry>
+        <mxCell id="SDsxmMpL8d394vxP3TBl-17" value="借阅" style="shape=rhombus;perimeter=rhombusPerimeter;whiteSpace=wrap;html=1;align=center;" vertex="1" parent="1">
+          <mxGeometry x="280" y="680" width="50" height="20" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
