@@ -101,7 +101,7 @@
           <mxGeometry x="170" y="670" width="80" height="40" as="geometry" />
         </mxCell>
         <mxCell id="SDsxmMpL8d394vxP3TBl-3" value="&lt;div&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;图书管理员&lt;/span&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="310" y="670" width="80" height="40" as="geometry" />
+          <mxGeometry x="340" y="670" width="80" height="40" as="geometry" />
         </mxCell>
         <mxCell id="SDsxmMpL8d394vxP3TBl-4" value="&lt;div&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;出版社&lt;/span&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="320" y="810" width="80" height="40" as="geometry" />
@@ -125,7 +125,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="SDsxmMpL8d394vxP3TBl-11" value="借阅" style="shape=rhombus;perimeter=rhombusPerimeter;whiteSpace=wrap;html=1;align=center;" vertex="1" parent="1">
-          <mxGeometry x="195" y="760" width="50" height="20" as="geometry" />
+          <mxGeometry x="260" y="820" width="50" height="20" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
