@@ -184,7 +184,7 @@
           <mxGeometry x="185" y="620" width="50" height="20" as="geometry" />
         </mxCell>
         <mxCell id="SDsxmMpL8d394vxP3TBl-32" value="读者编号" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="75" y="630" width="50" height="20" as="geometry" />
+          <mxGeometry x="65" y="670" width="50" height="20" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
